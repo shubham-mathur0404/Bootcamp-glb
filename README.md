@@ -43,3 +43,19 @@ Contains all the DSA questions from the Summer Bootcamp of GL Bajaj.
 
 7. **Replace String** (`ReplaceStr.java`)  
    Replace characters or words in a string.
+
+8. **Non-Repeating Character** (`NonRepeat.java`)  
+   Find the first non-repeating character in a string.
+
+9. **String Compression** (`Strcomps.java`)  
+   Compress a string by counting the frequency of each character. 
+
+10. **Valid Parenthesis** (`ValidParenthesis.java`)  
+   Check whether parentheses/brackets are valid or balanced.
+
+11. **Longest Palindromic Substring** (`LongestPalindrome.java`)  
+   Find the longest palindromic substring in a string.
+
+12. **Longest Substring Without Repeating Characters** (`LSWR.java`)  
+   Find the longest substring without repeating characters.
+
