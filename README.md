@@ -21,7 +21,6 @@ Contains all the DSA questions from the Summer Bootcamp of GL Bajaj. <br>
 
 5. **Delete the Smallest Element from an Array** (`arrMindel.java`) <br>
    Delete the smallest element from a given array. <br>
-```
 
 
 ## Java String Questions <br>
