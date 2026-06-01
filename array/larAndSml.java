@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class larAndsml {
+public class larAndSml {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("enter the size of array");
@@ -23,6 +23,7 @@ public class larAndsml {
         }
         System.out.println("Largest element in the array: " + largest);
         System.out.println("Smallest element in the array: " + smallest);
+        sc.close();
 
     }
 }

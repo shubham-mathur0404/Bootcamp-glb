@@ -14,6 +14,6 @@ public class RemoveDuplicate{
             
         }
         System.out.println(result);
-
+        sc.close();
     }
 }

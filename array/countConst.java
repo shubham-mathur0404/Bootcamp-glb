@@ -14,6 +14,7 @@ public class countConst {
             }
         }
         System.out.println("Number of consonants in the string: " + count);
+        sc.close();
 
     }
 }

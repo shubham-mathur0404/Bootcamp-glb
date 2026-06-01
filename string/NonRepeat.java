@@ -17,5 +17,6 @@ public class NonRepeat {
             }
         }
           System.out.println("no repeating are present");
+          sc.close();
     }
 }
